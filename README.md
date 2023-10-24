@@ -1,1 +1,1 @@
-# renovatebug1
+Minimum reproduction repository for a Renovate bug related to Jetty clients dependencies.
