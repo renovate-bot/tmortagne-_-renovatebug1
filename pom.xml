@@ -8,7 +8,7 @@
   <packaging>pom</packaging>
   <properties>
     <jetty.server.version>10.0.17</jetty.server.version>
-    <jetty.client.version>9.4.53.v20231009</jetty.client.version>
+    <jetty.client.version>12.0.3</jetty.client.version>
     <jetty.version>${jetty.client.version}</jetty.version>
   </properties>
   <dependencies>
